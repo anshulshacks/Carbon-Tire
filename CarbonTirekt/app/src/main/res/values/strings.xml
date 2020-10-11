@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Carbon Tire kt</string>
+    <array name="type">
+        <item>Driving</item>
+        <item>Biking</item>
+    </array>
+</resources>
